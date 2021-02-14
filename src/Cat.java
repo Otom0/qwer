@@ -72,7 +72,7 @@ public class Cat {
     {
         return weight;
     }
-
+//
 
     public String getStatus()
     {

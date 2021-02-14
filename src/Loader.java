@@ -60,6 +60,6 @@ public class Loader
 
         //if (cat1.getStatus().equals("Exploded")) System.out.println("Ymer");
 
-
+//
     }
 }
